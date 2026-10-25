@@ -60,7 +60,7 @@ The GitHub Actions workflow runs these checks for pushes and pull requests.
 
 ## Hackathon demo checklist
 
-The FalkorDB hackathon permits any stack and prefers a live deployment. If you cannot deploy, its FAQ asks for
+The FalkorDB permits any stack and prefers a live deployment. If you cannot deploy, its FAQ asks for
 complete local setup instructions and a working demo video. For the strongest graph-track demo, select
 `GRAPH_BACKEND=falkordb`, start the provided FalkorDB service, and show:
 
